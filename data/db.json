@@ -10,7 +10,7 @@
       "id": 2,
       "title": "Make marketting email",
       "details": "Lorem ipsum",
-      "complete": false
+      "complete": true
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
     {
       "title": "hello there",
       "details": "hi there",
-      "complete": false,
+      "complete": true,
       "id": 3468
     }
   ]
